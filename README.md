@@ -1,5 +1,5 @@
 <!--Banner-->
-![AtharvaPathak](./banner.png)
+![AtharvaPathak](./banner.png)(https://github.com/atharvapathak58)
 
 <!--Night Owl image-->
 <div>
@@ -7,7 +7,7 @@
 </div>
 
 <!--Header Name-->
-# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ Sumit Sartale!
+# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ Atharva Pathak!
 *Data Scientist & AI Engineer*
 <br />
 
