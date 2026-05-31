@@ -204,7 +204,7 @@
 <img src="./github.png" width=50 height=50 alt="Kiran1689" style="margin-bottom: 5px;" />
 </a>
 
-<a href="https://www.linkedin.com/in/kiran-a-n/" target="_blank">
+<a href="https://www.linkedin.com/in/atharva-pathak-10a290311?utm_source=share_via&utm_content=profile&utm_medium=member_android target="_blank">
 <img src="./linkedin.png" width=50 height=50 alt="linkedin" style="margin-bottom: 5px;" />
 </a>
 
