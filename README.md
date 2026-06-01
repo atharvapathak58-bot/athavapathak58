@@ -188,20 +188,10 @@
 <div align="center">
 
 <a href="atharvapathak58@gmail.com" target="_blank">
-<img src="./gmail.png" width=50 height=50 alt="ssartale6@gmail.com" style="margin-bottom: 5px;" />
+<img src="./gmail.png" width=50 height=50 alt="atharvapathak58@gmail.com" style="margin-bottom: 5px;" />
 </a>
 
-<a href="" target="_blank">
-<img src="./twitter.png" width=50 height=50 alt="kiran__a__n" style="margin-bottom: 5px;" />
-</a>
 
-<a href="https://www.instagram.com/kiran_a_n" target="_blank">
-<img src="./instagram.png" width=50 height=50 alt="kiran_a_n" style="margin-bottom: 5px;" />
-</a>
-
-<a href="https://www.github.com/Kiran1689" target="_blank">
-<img src="./github.png" width=50 height=50 alt="Kiran1689" style="margin-bottom: 5px;" />
-</a>
 
 <a href="https://www.linkedin.com/in/atharva-pathak-10a290311?utm_source=share_via&utm_content=profile&utm_medium=member_android target="_blank">
 <img src="./linkedin.png" width=50 height=50 alt="linkedin" style="margin-bottom: 5px;" />
