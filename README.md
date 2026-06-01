@@ -1,6 +1,5 @@
 <!--Banner-->
-![AtharvaPathak](./banner.png)(https://github.com/atharvapathak58)
-
+![AtharvaPathak](./banner.png)
 <!--Night Owl image-->
 <div>
   <img align="right" width="40%" src="">
